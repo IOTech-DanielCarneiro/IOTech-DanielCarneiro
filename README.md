@@ -126,7 +126,12 @@ I'm a technology enthusiast with a passion for learning and sharing knowledge.
 </details>
 <br/>
 
-**Types of projects I work/have worked on:**
+<details>
+<summary>
+	<b>Types of projects I'm currently working/have worked on:</b>
+</summary>
+<br>
+
 - Web Development
 - Mobile Development
 - REST API Development
@@ -148,7 +153,7 @@ In these different areas:
 - Analytics Dashboards
 - Informational Websites
 - Comercial Websites
-
+</details>
 
 <br/>
 
