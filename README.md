@@ -10,7 +10,7 @@ I'm a technology enthusiast with a passion for learning and sharing knowledge.
 
 **Website:** 
 
-Check out my website for more information about me, my tech stack and my projects 😁: [danielcarneiro.web](https://danielcarneiro.web)
+Check out my website for more information about me, my tech stack and my projects 😁: [danielcarneiro.dev](https://danielcarneiro.dev)
 
 <br/>
 
